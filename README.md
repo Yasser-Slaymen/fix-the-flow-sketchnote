@@ -5,6 +5,7 @@
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
+![WhatsApp Image 2022-01-24 at 8 04 29 PM](https://user-images.githubusercontent.com/90189815/150848186-2e809aac-f0d0-4f26-9f56-af1d82214659.jpeg)
 
 ## Licentie
 
